@@ -1,7 +1,7 @@
 package com.bignerdranch.android.geoquiz;
 
 /**
- * Created by Alikhard on 3/31/2016.
+ * Created by Alikhard on 08/15/2016.
  */
 public class Question {
     private int mTextResId;
